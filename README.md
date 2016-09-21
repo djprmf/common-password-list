@@ -1,7 +1,6 @@
 # Lists of common used passwords
 
 This are just some lists from common used passwords.
-
 Used for research only. 
 
 
